@@ -5,3 +5,10 @@ C:\Users\otavi\source\repos\SistemaLoginConsole\SistemaLoginConsole\obj\Debug\Si
 C:\Users\otavi\source\repos\SistemaLoginConsole\SistemaLoginConsole\obj\Debug\SistemaLoginConsole.csproj.CoreCompileInputs.cache
 C:\Users\otavi\source\repos\SistemaLoginConsole\SistemaLoginConsole\obj\Debug\SistemaLoginConsole.exe
 C:\Users\otavi\source\repos\SistemaLoginConsole\SistemaLoginConsole\obj\Debug\SistemaLoginConsole.pdb
+C:\Users\otavi\OneDrive\Desktop\ProjetoOtavio\SistemaLoginConsole\SistemaLoginConsole\bin\Debug\SistemaLoginConsole.exe.config
+C:\Users\otavi\OneDrive\Desktop\ProjetoOtavio\SistemaLoginConsole\SistemaLoginConsole\bin\Debug\SistemaLoginConsole.exe
+C:\Users\otavi\OneDrive\Desktop\ProjetoOtavio\SistemaLoginConsole\SistemaLoginConsole\bin\Debug\SistemaLoginConsole.pdb
+C:\Users\otavi\OneDrive\Desktop\ProjetoOtavio\SistemaLoginConsole\SistemaLoginConsole\obj\Debug\SistemaLoginConsole.csproj.AssemblyReference.cache
+C:\Users\otavi\OneDrive\Desktop\ProjetoOtavio\SistemaLoginConsole\SistemaLoginConsole\obj\Debug\SistemaLoginConsole.csproj.CoreCompileInputs.cache
+C:\Users\otavi\OneDrive\Desktop\ProjetoOtavio\SistemaLoginConsole\SistemaLoginConsole\obj\Debug\SistemaLoginConsole.exe
+C:\Users\otavi\OneDrive\Desktop\ProjetoOtavio\SistemaLoginConsole\SistemaLoginConsole\obj\Debug\SistemaLoginConsole.pdb
